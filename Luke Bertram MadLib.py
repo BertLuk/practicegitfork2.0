@@ -6,7 +6,7 @@ Author: Luke
 # The template for the story
 
 STORY = "This morning %s woke up feeling %s. 'It is going to be a %s day!' Outside, a bunch of %ss were protesting to keep %s in stores. They began to %s to the rhythm of the %s, which made all the %ss very %s. Concerned, %s texted %s, who flew %s to %s and dropped %s in a puddle of frozen %s. %s woke up in the year %s, in a world where %ss ruled the world."
-print "It's time for Madlibs my BOIS"
+print "It's time for Madlibs my GORLS"
 name = raw_input("Name:")
 noun = raw_input("First Noun:")
 noun_1 = raw_input("Second Noun:")
